@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<p><a class="btn btn-default" href="{% url 'studyui_reportheaderdetail_list' %}">ReportHeaderDetail Listing</a></p>
+<table class="table">
+<tr><td>name</td><td>{{ object.name }}</td></tr>
+<tr><td>created</td><td>{{ object.created }}</td></tr>
+<tr><td>last_updated</td><td>{{ object.last_updated }}</td></tr>
+<tr><td>column_condition</td><td>{{ object.column_condition }}</td></tr>
+<tr><td>column_order</td><td>{{ object.column_order }}</td></tr>
+<tr><td>column_label</td><td>{{ object.column_label }}</td></tr>
+</table>
+<a class="btn btn-primary" href="{{object.get_update_url}}">Edit ReportHeaderDetail</a>
+
+{% endblock %}

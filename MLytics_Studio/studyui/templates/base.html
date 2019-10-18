@@ -1,0 +1,9 @@
+<html>
+<head>
+    {% include "cssinclude.html" %}
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'studyui/css/test.css' %}">
+
+</head>
+{% include "navbar.html" %}
+<body>{% block content %}Replace this.{% endblock %}</body>

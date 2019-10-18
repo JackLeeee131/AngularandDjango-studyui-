@@ -1,0 +1,66 @@
+version: '3'
+
+services:
+  mlytics_db:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: password
+    networks:
+      - main
+    hostname: mlytics_db
+    volumes:
+      - /srv/postgresql/data:/var/lib/postgresql/data
+  dbadmin:
+    image: dpage/pgadmin4
+    hostname: mlytics_db_admin
+    volumes:
+      - ./dbcsv/pgadmin:/var/lib/pgadmin
+    ports:
+      - "8001:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: rajeshlal07@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: password
+    networks:
+      - main
+
+  web:
+    build: .
+    hostname: mlytics_web
+    command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+    volumes:
+      - .:/mlytics_studio
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mlytics_db
+    networks:
+      - main
+  gl:
+    image: 'gitlab/gitlab-ee:latest'
+    hostname: 'cde'
+    # container_name: mlytics_gl
+
+    environment:
+      GITLAB_OMNIBUS_CONFIG: |
+        external_url 'http://cde.mlyticsstudio.com'
+        # Add any other gitlab.rb configuration here, each on its own line
+    ports:
+      - '80:80'
+      - '4430:443'
+      - '2200:22'
+    volumes:
+      - '/srv/gitlab/config:/etc/gitlab'
+      - '/srv/gitlab/logs:/var/log/gitlab'
+      - '/srv/gitlab/data:/var/opt/gitlab'
+    networks:
+      main:
+        ipv4_address: 20.0.0.20
+
+networks:
+    main:
+      # use the bridge driver, but enable IPv6
+      driver: bridge
+      ipam:
+        driver: default
+        config:
+        - subnet: 20.0.0.0/24

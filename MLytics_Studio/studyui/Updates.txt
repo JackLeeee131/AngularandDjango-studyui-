@@ -1,0 +1,15 @@
+Built with django_builder
+
+python manage.py makemigrations;
+python manage.py migrate;
+python manage.py createsuperuser
+
+
+Updates to be made:
+
+studyui: models.py:
+1. remove the 3 imports: from models import BooleanField
+from models import CharField
+from models import FilePathField
+
+2.

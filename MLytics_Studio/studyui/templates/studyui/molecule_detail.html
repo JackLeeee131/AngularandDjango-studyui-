@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<p><a class="btn btn-default" href="{% url 'studyui_molecule_list' %}">Molecule Listing</a></p>
+<table class="table">
+<tr><td>name</td><td>{{ object.name }}</td></tr>
+<tr><td>created</td><td>{{ object.created }}</td></tr>
+<tr><td>last_updated</td><td>{{ object.last_updated }}</td></tr>
+<tr><td>description</td><td>{{ object.description }}</td></tr>
+<tr><td>study</td>
+{% for study in object.studys.all %}
+<td>
+<li><a href="{{study.get_absolute_url}}">{{ study.name }}</a></li>
+    {% for task in study.tasks.all %}
+    <li><a href="{{task.get_absolute_url}}">{{ task.name }}</a></li>
+    {% endfor %}
+</td>
+{% endfor %}
+</tr>
+</table>
+<a class="btn btn-primary" href="{{object.get_update_url}}">Edit Molecule</a>
+
+{% endblock %}

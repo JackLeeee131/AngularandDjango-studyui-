@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<p><a class="btn btn-default" href="{% url 'studyui_metadata_list' %}">Metadata Listing</a></p>
+<table class="table">
+<tr>
+<td>ID</td><td>Link</td>
+    <td>parameter_code</td>
+    <td>created</td>
+    <td>last_updated</td>
+    <td>label</td>
+    <td>description</td>
+    <td>dataset</td>
+    <td>length</td>
+    <td>data_type</td>
+    <td>controlled_terms</td>
+    <td>adam_class</td>
+    <td>category</td>
+    <td>sub_category</td>
+    <td>variable_name</td>
+</tr>
+{% for object in object_list %}
+<tr>
+    <td>{{object.pk}}</td>
+    <td><a href="{{object.get_absolute_url}}">{{object}}</a></td>
+    <td>{{ object.parameter_code }}</td>
+    <td>{{ object.created }}</td>
+    <td>{{ object.last_updated }}</td>
+    <td>{{ object.label }}</td>
+    <td>{{ object.description }}</td>
+    <td>{{ object.dataset }}</td>
+    <td>{{ object.length }}</td>
+    <td>{{ object.data_type }}</td>
+    <td>{{ object.controlled_terms }}</td>
+    <td>{{ object.adam_class }}</td>
+    <td>{{ object.category }}</td>
+    <td>{{ object.sub_category }}</td>
+    <td>{{ object.variable_name }}</td>
+</tr>
+{% endfor %}
+</table><a class="btn btn-primary" href="{% url 'studyui_metadata_create' %}">Create new Metadata</a>
+{% endblock %}

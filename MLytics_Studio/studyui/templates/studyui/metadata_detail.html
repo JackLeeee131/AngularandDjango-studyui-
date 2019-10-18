@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<p><a class="btn btn-default" href="{% url 'studyui_metadata_list' %}">Metadata Listing</a></p>
+<table class="table">
+<tr><td>parameter_code</td><td>{{ object.parameter_code }}</td></tr>
+<tr><td>created</td><td>{{ object.created }}</td></tr>
+<tr><td>last_updated</td><td>{{ object.last_updated }}</td></tr>
+<tr><td>label</td><td>{{ object.label }}</td></tr>
+<tr><td>description</td><td>{{ object.description }}</td></tr>
+<tr><td>dataset</td><td>{{ object.dataset }}</td></tr>
+<tr><td>length</td><td>{{ object.length }}</td></tr>
+<tr><td>data_type</td><td>{{ object.data_type }}</td></tr>
+<tr><td>controlled_terms</td><td>{{ object.controlled_terms }}</td></tr>
+<tr><td>adam_class</td><td>{{ object.adam_class }}</td></tr>
+<tr><td>category</td><td>{{ object.category }}</td></tr>
+<tr><td>sub_category</td><td>{{ object.sub_category }}</td></tr>
+<tr><td>variable_name</td><td>{{ object.variable_name }}</td></tr>
+</table>
+<a class="btn btn-primary" href="{{object.get_update_url}}">Edit Metadata</a>
+
+{% endblock %}

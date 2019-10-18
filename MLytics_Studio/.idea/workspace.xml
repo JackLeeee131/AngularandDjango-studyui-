@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08a243ad-c292-4612-b5d9-3fd3020e808a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyui/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docker-command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlytics_studio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlytics_studio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyui/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/studyui/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyui/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/studyui/tasks.py" afterDir="false" />
+    </list>
+    <ignored path="db.sqlite3" />
+    <ignored path="studyui/migrations/" />
+    <ignored mask="*.fuse_hidden*" />
+    <ignored mask="*.sqlite" />
+    <ignored path="export.csv" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mlytics_studio/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="116" column="1" lean-forward="true" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>css</find>
+      <find>stati</find>
+      <find>Study</find>
+      <find>task</find>
+      <find>TextField</find>
+      <find>CharField</find>
+      <find>__unicode__</find>
+      <find>TrialInline</find>
+      <find>templ</find>
+      <find>TEMPLATES</find>
+      <find>object-tools-items</find>
+      <find>filter</find>
+      <find>ReportAd</find>
+      <find>render</find>
+      <find>AddTagForm</find>
+      <find>my</find>
+      <find>link</find>
+      <find>li</find>
+      <find>ActionForm</find>
+      <find>TaskFilter</find>
+      <find>export(</find>
+      <find>export</find>
+      <find>allowe</find>
+      <find>jet</find>
+      <find>save_</find>
+      <find>gen</find>
+      <find>req</find>
+      <find>requi</find>
+      <find>nul</find>
+      <find>USER_NAME</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Trial</replace>
+      <replace>CharField</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/studyui/Updates.txt" />
+        <option value="$PROJECT_DIR$/css/test.css" />
+        <option value="$PROJECT_DIR$/testingnav.html" />
+        <option value="$PROJECT_DIR$/studyui/templates/base_updated.html" />
+        <option value="$PROJECT_DIR$/studyui/templates/base.html" />
+        <option value="$PROJECT_DIR$/studyui/tests.py" />
+        <option value="$PROJECT_DIR$/studyui/templates/studyui/report_detail.html" />
+        <option value="$PROJECT_DIR$/studyui/api.py" />
+        <option value="$PROJECT_DIR$/django_builder_keyvalue.txt" />
+        <option value="$PROJECT_DIR$/studyui/templates/cssinclude.html" />
+        <option value="$PROJECT_DIR$/studyui/templates/navbar.html" />
+        <option value="$PROJECT_DIR$/studyui/views.py" />
+        <option value="$PROJECT_DIR$/studyui/templates/admin/copy_template.html" />
+        <option value="$PROJECT_DIR$/studyui/templates/admin/studyui/copy_template.html" />
+        <option value="$PROJECT_DIR$/studyui/templates/admin/studyui/base_site.html" />
+        <option value="$PROJECT_DIR$/mlytics_studio/celery.py" />
+        <option value="$PROJECT_DIR$/studyui/templates/admin/studyui/change_form.html" />
+        <option value="$PROJECT_DIR$/studyui/templates/admin/studyui/change_list.html" />
+        <option value="$PROJECT_DIR$/studyui/templates/studyui/change_list.html" />
+        <option value="$PROJECT_DIR$/mlytics_studio/urls.py" />
+        <option value="$PROJECT_DIR$/studyui/models.py" />
+        <option value="$PROJECT_DIR$/studyui/forms.py" />
+        <option value="$PROJECT_DIR$/studyui/admin.py" />
+        <option value="$PROJECT_DIR$/studyui/tasks.py" />
+        <option value="$PROJECT_DIR$/docker-command.txt" />
+        <option value="$PROJECT_DIR$/mlytics_studio/settings.py" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="25" />
+    <option name="width" value="923" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mlytics_studio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mlytics_studio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mlytics_studio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mlytics_studio" type="462c0819:PsiDirectoryNode" />
+              <item name="mlytics_studio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="mlytics_studio" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Projects/mlytics_studio" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Downloads/mlytics_studio/mlytics_studio/studyui/models.py" />
+    <property name="two.files.diff.last.used.folder" value="$USER_HOME$/Downloads/mlytics_studio" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/studyui/templates/studyui" />
+      <recent name="$PROJECT_DIR$/studyui/templates/admin/studyui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/studyui/templates/admin/studyui" />
+      <recent name="$PROJECT_DIR$/studyui" />
+      <recent name="$PROJECT_DIR$/mlytics_studio" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08a243ad-c292-4612-b5d9-3fd3020e808a" name="Default Changelist" comment="" />
+      <created>1553219291053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553219291053</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1553317532204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553317532204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1553353043630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553353043630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added static files, CSS, JS.">
+      <created>1553544086859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553544086860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added static files, CSS, JS.">
+      <created>1553610257922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553610257922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added report subset table">
+      <created>1553661358281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553661358282</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added conda environment dj">
+      <created>1553699128822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553699128822</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added conda environment dj">
+      <created>1553700951462</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553700951463</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Admin customization, Postgres">
+      <created>1553837420715</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553837420717</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Admin customization, Postgres">
+      <created>1553916367648</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553916367648</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added celery and dummy tasks">
+      <created>1554134213303</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554134213304</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added celery and dummy tasks">
+      <created>1554183493798</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554183493798</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added celery tasks for generating csv files">
+      <created>1554222638989</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554222638989</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added celery tasks for generating csv files and Creating projects">
+      <created>1554301578002</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554301578002</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added celery tasks for generating csv files and Creating projects and commits">
+      <created>1554304771615</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554304771615</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Postgres in docker">
+      <created>1554473724575</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554473724575</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Postgres in docker">
+      <created>1554534678372</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554534678372</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Postgres in docker">
+      <created>1554598158272</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554598158273</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="997" y="25" width="923" height="1055" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892008" weight="0.22666667" />
+      <window_info id="Structure" order="1" sideWeight="0.5010799" side_tool="true" weight="0.22722283" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49945354" weight="0.32181427" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6187905" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054646" side_tool="true" weight="0.65550756" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.62095034" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24962963" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/sas" />
+    </ignored-roots>
+    <MESSAGE value="init" />
+    <MESSAGE value="Added static files, CSS, JS." />
+    <MESSAGE value="Added report subset table" />
+    <MESSAGE value="Added conda environment dj" />
+    <MESSAGE value="Admin customization, Postgres" />
+    <MESSAGE value="Added celery and dummy tasks" />
+    <MESSAGE value="Added celery tasks for generating csv files" />
+    <MESSAGE value="Added celery tasks for generating csv files and Creating projects" />
+    <MESSAGE value="Added celery tasks for generating csv files and Creating projects and commits" />
+    <MESSAGE value="Postgres in docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Postgres in docker" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/admin_tools/__init__.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/views/autocomplete.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/views/decorators.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/views/main.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/actions.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/postgres/fields/array.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/templatetags/base.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/apps.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/sites.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/models.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/templates/admin/change_form.html" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/templates/admin/base.html" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/templates/admin/filter.html" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/widgets.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/modelclone/__init__.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/forms/models.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/forms.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/forms/forms.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/helpers.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/forms/fields.py" />
+    <entry file="file://$PROJECT_DIR$/studyui/templates/admin/studyui/base.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/templates/admin/base_site.html" />
+    <entry file="file://$PROJECT_DIR$/studyui/templates/admin/studyui/base.html" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/views/generic/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/jet/templates/admin/popup_response.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/jet/templates/admin/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6014" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/templates/admin/actions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyui/templates/admin/studyui/base_site.html" />
+    <entry file="file://$PROJECT_DIR$/studyui/templates/admin/studyui/copy_template.html" />
+    <entry file="file://$PROJECT_DIR$/studyui/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/templates/admin/change_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1533619824/builtins.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/import_export/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="61" column="30" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="260" column="21" selection-start-line="260" selection-start-column="21" selection-end-line="260" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyui/templates/studyui/change_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#71#254#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlytics_studio/celery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export.csv" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/modelclone/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/django/contrib/admin/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="598" column="8" selection-start-line="598" selection-start-column="8" selection-end-line="598" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dj/lib/python3.6/site-packages/import_export/resources.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="688" column="8" selection-start-line="688" selection-start-column="8" selection-end-line="688" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyui/templates/admin/studyui/change_form.html" />
+    <entry file="file://$PROJECT_DIR$/studyui/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlytics_studio/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#627#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyui/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3287">
+          <caret line="187" column="28" selection-start-line="187" selection-start-column="28" selection-end-line="187" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyui/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyui/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="392" column="32" selection-start-line="392" selection-start-column="32" selection-end-line="392" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studyui/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="56" column="63" selection-start-line="56" selection-start-column="63" selection-end-line="56" selection-end-column="63" />
+          <folding>
+            <element signature="e#25#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-command.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mlytics_studio/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="116" column="1" lean-forward="true" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

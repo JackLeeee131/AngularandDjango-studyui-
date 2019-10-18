@@ -1,0 +1,100 @@
+id,report_id,created,last_updated,library,subject_data,column_variable,filter,stat_label,report_type,template,task
+1,TDM001,2019-04-01 18:35:31,2019-04-06 00:50:12,adam,adsl,trt01p,1,Demographics,Demog,1,701
+2,TDM002,2019-03-29 23:17:03,2019-03-31 04:29:50,adam,adsl,trt01p,1,Demographics,Demog,1,701
+3,TDM003,2019-03-29 23:17:02,2019-03-31 04:29:31,adam,adsl,trt01a,1,Demographics,Demog,1,701
+4,TDM004,2019-03-29 23:17:02,2019-03-29 23:17:02,adam,adsl,trt01a,1,Demographics,Demog,1,701
+5,TDM005,2019-03-29 22:43:14,2019-03-29 22:43:14,adam,adsl,trt01p,1,Demographics,Demog,1,701
+6,TDS001,2019-03-29 22:43:14,2019-03-29 22:43:14,adam,adsl,trt01p,1,Disposition,Disposition,1,701
+7,TDS002,2019-03-29 22:43:14,2019-03-29 22:43:14,adam,adsl,trt01p,1,Disposition,Disposition,1,701
+8,TDS003,2019-03-29 22:43:14,2019-03-29 22:43:14,adam,adsl,trt01a,1,Disposition,Disposition,1,701
+9,TDS004,2019-03-29 22:43:14,2019-03-29 22:43:14,adam,adsl,trt01a,1,Disposition,Disposition,1,701
+10,TDS005,2019-03-29 22:43:14,2019-03-29 22:43:14,adam,adsl,trt01p,1,Disposition,Disposition,1,701
+11,TAE001,2019-03-29 18:07:49,2019-03-29 22:28:06,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+12,TAE002,2019-03-29 16:39:29,2019-03-29 16:39:29,adam,adsl,trt01a,1,Serious Adverse Events,AE,1,701
+13,TAE003,2019-03-29 16:37:30,2019-03-29 16:37:30,adam,adsl,trt01a,1,Severe Adverse Events,AE,1,701
+14,TAE004,2019-03-29 16:36:30,2019-03-29 16:36:56,adam,adsl,trt01a,1,"Grade 1, 2, 3 Adverse Events",AE,1,701
+15,TAE005,2019-03-29 16:35:49,2019-03-29 16:35:49,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+16,TAE006,2019-03-29 16:34:21,2019-03-29 16:34:21,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+17,TAE007,2019-03-29 16:34:22,2019-03-29 16:34:22,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+18,TAE008,2019-03-29 16:34:23,2019-03-29 16:34:23,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+19,TAE009,2019-03-29 16:34:24,2019-03-29 16:34:24,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+20,TAE010,2019-03-29 16:34:25,2019-03-29 16:34:25,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+21,TAE011,2019-03-29 16:34:26,2019-03-29 16:34:26,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+22,TAE012,2019-03-29 16:34:27,2019-03-29 16:34:27,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+23,TAE013,2019-03-29 16:34:28,2019-03-29 16:34:28,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+24,TAE014,2019-03-29 16:34:29,2019-03-29 16:34:29,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+25,TAE015,2019-03-29 16:34:30,2019-03-29 16:34:30,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+26,TAE016,2019-03-29 16:34:31,2019-03-29 16:34:31,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+27,TAE017,2019-03-29 16:34:32,2019-03-29 16:34:32,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+28,TAE018,2019-03-29 16:34:33,2019-03-29 16:34:33,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+29,TAE019,2019-03-29 16:34:34,2019-03-29 16:34:34,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+30,TAE020,2019-03-29 16:34:35,2019-03-29 16:34:35,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+31,TAE021,2019-03-29 16:34:36,2019-03-29 16:34:36,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+32,TAE022,2019-03-29 16:34:37,2019-03-29 16:34:37,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+33,TAE023,2019-03-29 16:34:38,2019-03-29 16:34:38,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+34,TAE024,2019-03-29 16:34:39,2019-03-29 16:34:39,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+35,TAE025,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01a,1,Adverse Events,AE,1,701
+36,TEF001,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+37,TEF002,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+38,TEF003,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+39,TEF004,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+40,TEF005,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+41,TEF006,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+42,TEF007,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+43,TEF008,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+44,TEF009,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+45,TEF010,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+46,TEF011,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+47,TEF012,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+48,TEF013,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+49,TEF014,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+50,TEF015,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+51,TEF016,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+52,TEF017,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+53,TEF018,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+54,TEF019,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+55,TEF020,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+56,TEF021,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+57,TEF022,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+58,TEF023,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+59,TEF024,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+60,TEF025,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+61,TEF026,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+62,TEF027,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+63,TEF028,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+64,TEF029,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+65,TEF030,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+66,TEF031,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+67,TEF032,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+68,TEF033,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+69,TEF034,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+70,TEF035,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+71,TEF036,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+72,TEF037,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+73,TEF038,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+74,TEF039,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+75,TEF040,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+76,TLB001,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+77,TLB002,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+78,TLB003,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+79,TLB004,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+80,TLB005,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+81,TLB006,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+82,TLB007,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+83,TLB008,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+84,TLB009,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+85,TLB010,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Laboratory Results,Labs,1,701
+86,TVS001,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Vital Signs,Vital Signs,1,701
+87,TVS002,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Vital Signs,Vital Signs,1,701
+88,TVS003,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Vital Signs,Vital Signs,1,701
+89,TVS004,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Vital Signs,Vital Signs,1,701
+90,TVS005,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Vital Signs,Vital Signs,1,701
+91,TEF056,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+92,TEF057,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+93,TEF058,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+94,TEF059,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+95,TEF060,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+96,TEF061,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+97,TEF062,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+98,TEF063,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701
+99,TEF064,2019-03-29 16:34:40,2019-03-29 16:34:40,adam,adsl,trt01p,1,Efficacy Analysis,Efficacy,1,701

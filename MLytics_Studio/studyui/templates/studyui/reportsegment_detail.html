@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<p><a class="btn btn-default" href="{% url 'studyui_reportsegment_list' %}">ReportSegment Listing</a></p>
+<table class="table">
+<tr><td>created</td><td>{{ object.created }}</td></tr>
+<tr><td>last_updated</td><td>{{ object.last_updated }}</td></tr>
+<tr><td>library</td><td>{{ object.library }}</td></tr>
+<tr><td>dataset</td><td>{{ object.dataset }}</td></tr>
+<tr><td>variable</td><td>{{ object.variable }}</td></tr>
+<tr><td>label</td><td>{{ object.label }}</td></tr>
+<tr><td>filter</td><td>{{ object.filter }}</td></tr>
+<tr><td>analysis</td><td>{{ object.analysis }}</td></tr>
+<tr><td>additional_variables</td><td>{{ object.additional_variables }}</td></tr>
+<tr><td>special_variables</td><td>{{ object.special_variables }}</td></tr>
+</table>
+<a class="btn btn-primary" href="{{object.get_update_url}}">Edit ReportSegment</a>
+
+{% endblock %}

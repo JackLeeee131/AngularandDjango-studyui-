@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<p><a class="btn btn-default" href="{% url 'studyui_study_list' %}">Study Listing</a></p>
+<table class="table">
+<tr>
+<td>ID</td><td>Link</td>
+    <td>name</td>
+    <td>phase</td>
+    <td>indication</td>
+    <td>crossover</td>
+    <td>output_type</td>
+    <td>protocol</td>
+    <td>sap</td>
+    <td>created</td>
+    <td>last_updated</td>
+    <td>description</td>
+    <td>molecule</td>
+</tr>
+{% for object in object_list %}
+<tr>
+    <td>{{object.pk}}</td>
+    <td><a href="{{object.get_absolute_url}}">{{object}}</a></td>
+    <td>{{ object.name }}</td>
+    <td>{{ object.phase }}</td>
+    <td>{{ object.indication }}</td>
+    <td>{{ object.crossover }}</td>
+    <td>{{ object.output_type }}</td>
+    <td>{{ object.protocol }}</td>
+    <td>{{ object.sap }}</td>
+    <td>{{ object.created }}</td>
+    <td>{{ object.last_updated }}</td>
+    <td>{{ object.description }}</td>
+    <td><a href="{{object.molecule.get_absolute_url}}">{{ object.molecule }}</a></td>
+</tr>
+{% endfor %}
+</table><a class="btn btn-primary" href="{% url 'studyui_study_create' %}">Create new Study</a>
+{% endblock %}

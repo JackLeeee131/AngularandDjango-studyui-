@@ -1,0 +1,56 @@
+id,created,last_updated,library,dataset,variable,label,filter,analysis,additional_variables,special_variables,report
+1,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,age,Age,1,nstat,None,None,195
+2,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,age,Age,1,nstat,None,None,196
+3,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,age,Age,1,nstat,None,None,197
+4,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,age,Age,1,nstat,None,None,198
+5,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,age,Age,1,nstat,None,None,199
+6,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,sex,Sex,1,npct,None,None,195
+7,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,sex,Sex,1,npct,None,None,196
+8,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,sex,Sex,1,npct,None,None,197
+9,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,sex,Sex,1,npct,None,None,198
+10,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,sex,Sex,1,npct,None,None,199
+11,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,race,Race,1,npct,None,None,195
+12,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,race,Race,1,npct,None,None,196
+13,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,race,Race,1,npct,None,None,197
+14,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,race,Race,1,npct,None,None,198
+15,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,race,Race,1,npct,None,None,199
+16,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ethnic,Ethnicity,1,npct,None,None,195
+17,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ethnic,Ethnicity,1,npct,None,None,196
+18,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ethnic,Ethnicity,1,npct,None,None,197
+19,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ethnic,Ethnicity,1,npct,None,None,198
+20,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ethnic,Ethnicity,1,npct,None,None,199
+21,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ecog,ECOG Status,1,npct,None,None,195
+22,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ecog,ECOG Status,1,npct,None,None,196
+23,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ecog,ECOG Status,1,npct,None,None,197
+24,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ecog,ECOG Status,1,npct,None,None,198
+25,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,ecog,ECOG Status,1,npct,None,None,199
+26,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,bmi,BMI,1,nstat,None,None,195
+27,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,bmi,BMI,1,nstat,None,None,196
+28,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,bmi,BMI,1,nstat,None,None,197
+29,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,bmi,BMI,1,nstat,None,None,198
+30,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adsl,bmi,BMI,1,nstat,None,None,199
+31,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,189
+32,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,188
+33,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,187
+34,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,186
+35,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,185
+36,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,184
+37,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,183
+38,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,182
+39,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,181
+40,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,180
+41,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,179
+42,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,178
+43,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,177
+44,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,176
+45,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,175
+46,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,174
+47,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,173
+48,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,172
+49,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,AESOC,None,171
+50,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,None,None,170
+51,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,None,None,169
+52,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,None,None,168
+53,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,None,None,167
+54,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,None,None,166
+55,2019-04-06 05:52:06,2019-04-06 05:52:06,adam,adae,aedecod,AE Preferred Term,1,npct,None,None,165

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<p><a class="btn btn-default" href="{% url 'studyui_reportsubset_list' %}">ReportSubset Listing</a></p>
+<table class="table">
+<tr>
+<td>ID</td><td>Link</td>
+    <td>name</td>
+    <td>created</td>
+    <td>last_updated</td>
+    <td>population_subset</td>
+    <td>analysis_subset</td>
+    <td>population_title</td>
+    <td>analysis_title</td>
+    <td>description</td>
+</tr>
+{% for object in object_list %}
+<tr>
+    <td>{{object.pk}}</td>
+    <td><a href="{{object.get_absolute_url}}">{{object}}</a></td>
+    <td>{{ object.name }}</td>
+    <td>{{ object.created }}</td>
+    <td>{{ object.last_updated }}</td>
+    <td>{{ object.population_subset }}</td>
+    <td>{{ object.analysis_subset }}</td>
+    <td>{{ object.population_title }}</td>
+    <td>{{ object.analysis_title }}</td>
+    <td>{{ object.description }}</td>
+</tr>
+{% endfor %}
+</table><a class="btn btn-primary" href="{% url 'studyui_reportsubset_create' %}">Create new ReportSubset</a>
+{% endblock %}
