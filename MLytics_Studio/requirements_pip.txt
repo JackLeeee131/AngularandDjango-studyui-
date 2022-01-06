@@ -5,7 +5,7 @@ autobahn==19.3.2
 Automat==0.7.0
 backports.csv==1.0.7
 billiard==3.5.0.5
-celery==4.2.1
+celery==5.2.2
 certifi==2018.11.29
 channels==1.1.8
 chardet==3.0.4
