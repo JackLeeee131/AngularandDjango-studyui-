@@ -30,7 +30,7 @@ idna==2.8
 incremental==17.5.0
 jdcal==1.4
 kombu==4.4.0
-numpy==1.16.2
+numpy==1.22.0
 oauthlib==3.0.1
 odfpy==1.4.0
 openpyxl==2.6.1
